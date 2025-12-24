@@ -1,0 +1,149 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Évasion intemporelle dans les Sassi de Matera",
+  "budget_total": "850-900€",
+  "duree": "3 jours",
+  "temps_vol": "2h20 (vol direct depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premières découvertes des Sassi",
+      "legende": "Après votre arrivée à Bari et le transfert vers Matera, installez-vous confortablement dans votre hébergement troglodyte. Profitez d'une première balade douce dans les Sassi, ces quartiers historiques creusés dans la roche, pour vous imprégner de l'atmosphère unique de la ville. Dînez dans un restaurant typique pour goûter aux saveurs locales.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬</strong>: Vol Paris-Bari et transfert vers Matera.",
+        "<strong>🛏️</strong>: Installation dans un hôtel troglodyte.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans les Sassi di Matera."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Depuis l'aéroport de Bari, un bus direct relie Matera en environ 1h15. Les billets peuvent être achetés sur place."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion culturelle et panoramas apaisants",
+      "legende": "Plongez au cœur de l'histoire de Matera en explorant ses églises rupestres et ses maisons-grottes. L'après-midi, offrez-vous une pause détente avec une vue imprenable sur la ville depuis le belvédère. Terminez la journée par un dîner savoureux, en profitant de l'ambiance magique des Sassi illuminés.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>⛪</strong>: Visite d'une église rupestre (ex: Santa Lucia alle Malve).",
+        "<strong>🏡</strong>: Exploration d'une Casa Grotta pour comprendre la vie d'antan.",
+        "<strong>🌅</strong>: Admirer le coucher de soleil depuis le Parco della Murgia Materana."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Portez des chaussures confortables, les rues des Sassi sont pavées et parfois escarpées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Douceurs locales et départ",
+      "legende": "Profitez de cette dernière matinée pour flâner dans les boutiques d'artisanat local, dénicher des souvenirs uniques ou simplement savourer un café italien. Selon l'heure de votre vol, vous pourrez revisiter un lieu coup de cœur ou vous offrir un dernier repas typique avant de reprendre le chemin de l'aéroport de Bari.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>☕</strong>: Petit-déjeuner italien et flânerie dans le centre historique.",
+        "<strong>🎁</strong>: Achats de produits locaux et artisanat.",
+        "<strong>✈️</strong>: Transfert vers Bari et vol retour vers Paris."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Bien que Matera se visite à pied, une voiture peut être utile pour explorer les environs de la Basilicate si vous prolongez votre séjour."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "182 €/pers (A/R Paris-Bari)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 50 €/pers (transferts aéroport + local)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 270 €/pers (3 jours, 3 repas/jour, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 300 €/pers (3 nuits en hôtel 3* ou B&B troglodyte)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 50 €/pers (musées, églises rupestres)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Avril à juin et septembre à octobre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Matera est une ville piétonne. Prévoyez des chaussures confortables pour les montées et descentes des Sassi.",
+      "symbole": "🚶‍♀️"
+    },
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le voltage est de 230V, fréquence 50Hz. Les prises sont de type F et L (européennes).",
+      "symbole": "🔌"
+    },
+    {
+      "titre": "L'italien est la langue officielle. Quelques notions peuvent être utiles, mais l'anglais est souvent compris dans les zones touristiques.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol Paris-Bari",
+      "url": "https://www.kayak.fr/flights/CDG-BRI/2026-05-18/2026-05-21",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Matera",
+      "url": "https://www.basilicataturistica.it/en/matera/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports Bari-Matera",
+      "titre": "Bus Pugliairbus",
+      "url": "https://www.aeroportidipuglia.it/bus-pugliairbus",
+      "symbole": "🚌"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Matera",
+      "url": "https://www.accuweather.com/fr/it/matera/214104/weather-forecast/214104",
+      "symbole": "🌤️"
+    }
+  ]
+}
